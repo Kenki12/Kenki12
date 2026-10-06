@@ -1,6 +1,6 @@
 # <h2 align="center">Привет, я Глеб</h2>
 
-## <h2 align="center">Действующий студент ***ITMO university***</h2>
+## <h2 align="center">Действующий студент ***ITMO University***</h2>
 
 ## *Образование*
 
@@ -8,7 +8,7 @@
 |---|---|
 |Основное общеее 2024| Новороссийский Политехнический лицей|
 |Среднее общее 2026| Новороссийский Политехнический лицей|
-|Бакалавриат *сейчас*|ITMO|
+|Бакалавриат *сейчас*|ITMO University|
 
 ## 📫 Мои контакты
 - [Telegram](https://t.me/Tonneru)
@@ -21,7 +21,7 @@ from Bible import quotes
 
 print("Не судите, да не судимы будете, ибо каким судом судите, таким будете судимы")
 ```
-## Favorite programing language
+## Favourite programming language
 ![Python](https://images.icon-icons.com/2107/PNG/96/file_type_python_icon_130221.png)
 
 ## Статистика
