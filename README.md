@@ -1,4 +1,4 @@
-# <h2 align="center">Привет, я Глеб</h2>
+# <h2 align="center">Привет, я Kenki</h2>
 
 ## <h2 align="center">Действующий студент ***ITMO University***</h2>
 
